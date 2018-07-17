@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "allure": {
+    "createStepsInAllure": false,
+    "condition": []
+    
+  },
+  "beforeMethod": {
+    "condition": [],
+    "logLevel": ""
+  },
+  "afterMethod": {
+    "condition": [],
+    "logLevel": []
+  }
+}
